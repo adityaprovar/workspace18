@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="workspace18project/tests" tests="2" failures="0" skipped="0" hostname="ibm-adityashankar" time="131.984" timestamp="Thu Jul 06 10:27:13 IST 2023">
+	<properties>
+		<property name="excludeCallableTestCases" value="true"/>
+		<property name="testEnvironment" value=""/>
+		<property name="pluginOutputLevel" value="WARNING"/>
+		<property name="projectPath" value=".."/>
+		<property name="salesforceMetadataCache" value="Reuse"/>
+		<property name="resultsPathDisposition" value="Increment"/>
+		<property name="testOutputLevel" value="INFO"/>
+		<property name="webBrowserType" value="Chrome"/>
+		<property name="resultsPath" value="../ANT/Results"/>
+		<property name="webBrowserConfiguration" value="Full Screen"/>
+		<property name="projectCachePath" value="C:\Users\aditya.shankar\Provar\Workspace18\workspace18project\ANT\..\..\.provarCaches"/>
+	</properties>
+	<testcase classname="tests/NewTestCase.testcase" name="NewTestCase.testcase" time="126.959">
+	</testcase>
+	<testcase classname="tests/Test Case 1.testcase" name="Test Case 1.testcase" time="0.02">
+	</testcase>
+</testsuite>
